@@ -1,1 +1,2 @@
-print("Hi, I'm Sun")
+print("Hello")
+print("I love programming")
